@@ -1,0 +1,1001 @@
+"Country/area","Technology","Data Type","Grid connection","Year",Electricity statistics
+"Austria","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",1264.97
+"Austria","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",1450.13
+"Austria","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",1695.09
+"Austria","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",2028.93
+"Austria","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",2762.61
+"Austria","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",1268.97
+"Austria","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",1455.13
+"Austria","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",1702.09
+"Austria","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",2042.93
+"Austria","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",2773.91
+"Austria","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",2886.70
+"Austria","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",3132.71
+"Austria","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",3224.12
+"Austria","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",3225.98
+"Austria","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",3422.34
+"Austria","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",6571.51
+"Austria","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",6030.43
+"Austria","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",7450.08
+"Austria","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",6791.53
+"Austria","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",6740.04
+"Austria","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Austria","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Austria","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Austria","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Austria","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Austria","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Austria","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Austria","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Austria","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Austria","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Austria","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",0.92
+"Austria","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",0.92
+"Austria","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",0.92
+"Austria","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",0.92
+"Austria","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",0.25
+"Austria","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",0.09
+"Austria","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",0.24
+"Austria","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",0.20
+"Austria","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",0.07
+"Austria","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",0.03
+"Belgium","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",3600.40
+"Belgium","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",3962.80
+"Belgium","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",4523.00
+"Belgium","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",5453.00
+"Belgium","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",5934.00
+"Belgium","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",3308.00
+"Belgium","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",3903.54
+"Belgium","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",4252.40
+"Belgium","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",5112.69
+"Belgium","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",5622.70
+"Belgium","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",1902.20
+"Belgium","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",2119.00
+"Belgium","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",2308.20
+"Belgium","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",2411.00
+"Belgium","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",2686.60
+"Belgium","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",3650.30
+"Belgium","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",4163.00
+"Belgium","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",4961.30
+"Belgium","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",5844.90
+"Belgium","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",5071.40
+"Belgium","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",877.20
+"Belgium","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",1185.90
+"Belgium","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",1555.50
+"Belgium","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",2261.80
+"Belgium","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",2261.80
+"Belgium","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",2870.40
+"Belgium","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",3411.10
+"Belgium","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",4794.10
+"Belgium","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",6973.70
+"Belgium","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",6926.20
+"Belgium","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Belgium","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Belgium","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Belgium","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Belgium","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Belgium","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Belgium","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Belgium","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Belgium","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Belgium","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Bulgaria","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",1030.70
+"Bulgaria","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",1033.06
+"Bulgaria","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",1044.39
+"Bulgaria","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",1100.21
+"Bulgaria","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",1274.71
+"Bulgaria","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",1402.97
+"Bulgaria","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",1342.79
+"Bulgaria","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",1417.29
+"Bulgaria","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",1468.72
+"Bulgaria","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",1466.60
+"Bulgaria","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",698.39
+"Bulgaria","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",698.92
+"Bulgaria","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",703.12
+"Bulgaria","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",702.80
+"Bulgaria","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",704.38
+"Bulgaria","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",1504.06
+"Bulgaria","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",1318.12
+"Bulgaria","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",1316.99
+"Bulgaria","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",1477.13
+"Bulgaria","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",1433.56
+"Bulgaria","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Bulgaria","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Bulgaria","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Bulgaria","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Bulgaria","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Bulgaria","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Bulgaria","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Bulgaria","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Bulgaria","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Bulgaria","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Bulgaria","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Bulgaria","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Bulgaria","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Bulgaria","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Bulgaria","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Bulgaria","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Bulgaria","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Bulgaria","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Bulgaria","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Bulgaria","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Croatia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",60.00
+"Croatia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",67.70
+"Croatia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",84.80
+"Croatia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",108.50
+"Croatia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",138.30
+"Croatia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",78.70
+"Croatia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",74.90
+"Croatia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",83.10
+"Croatia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",95.50
+"Croatia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",148.90
+"Croatia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",576.10
+"Croatia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",586.30
+"Croatia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",646.30
+"Croatia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",801.30
+"Croatia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",986.90
+"Croatia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",1204.00
+"Croatia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",1335.40
+"Croatia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",1467.30
+"Croatia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",1720.70
+"Croatia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",2061.80
+"Croatia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Croatia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Croatia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Croatia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Croatia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Croatia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Croatia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Croatia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Croatia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Croatia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Croatia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Croatia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",10.00
+"Croatia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",10.00
+"Croatia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",10.00
+"Croatia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",10.00
+"Croatia","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Croatia","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",2.00
+"Croatia","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",91.90
+"Croatia","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",93.70
+"Croatia","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",89.70
+"Czechia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",2061.91
+"Czechia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",2067.52
+"Czechia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",2084.85
+"Czechia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",2124.18
+"Czechia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",2176.67
+"Czechia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",2199.26
+"Czechia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",2364.78
+"Czechia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",2316.15
+"Czechia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",2294.36
+"Czechia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",2249.86
+"Czechia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",308.21
+"Czechia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",316.20
+"Czechia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",339.41
+"Czechia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",339.42
+"Czechia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",339.41
+"Czechia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",591.04
+"Czechia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",609.33
+"Czechia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",700.01
+"Czechia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",699.08
+"Czechia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",601.53
+"Czechia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Czechia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Czechia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Czechia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Czechia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Czechia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Czechia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Czechia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Czechia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Czechia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Czechia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Czechia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Czechia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Czechia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Czechia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Czechia","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Czechia","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Czechia","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Czechia","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Czechia","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Denmark","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",906.35
+"Denmark","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",998.00
+"Denmark","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",1080.00
+"Denmark","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",1304.30
+"Denmark","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",1704.04
+"Denmark","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",751.49
+"Denmark","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",952.97
+"Denmark","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",963.27
+"Denmark","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",1180.53
+"Denmark","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",1308.93
+"Denmark","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",4225.15
+"Denmark","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",4421.86
+"Denmark","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",4409.74
+"Denmark","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",4557.64
+"Denmark","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",4698.25
+"Denmark","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",9600.23
+"Denmark","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",9271.82
+"Denmark","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",9952.26
+"Denmark","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",9727.13
+"Denmark","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",8461.63
+"Denmark","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",1263.80
+"Denmark","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",1700.80
+"Denmark","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",1700.80
+"Denmark","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",1700.90
+"Denmark","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",2305.70
+"Denmark","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",5179.77
+"Denmark","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",4630.14
+"Denmark","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",6197.57
+"Denmark","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",6603.09
+"Denmark","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",7592.84
+"Denmark","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Denmark","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Denmark","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Denmark","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Denmark","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Denmark","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Denmark","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Denmark","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Denmark","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Denmark","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Estonia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",15.00
+"Estonia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",31.90
+"Estonia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",120.60
+"Estonia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",207.67
+"Estonia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",394.77
+"Estonia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",14.49
+"Estonia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",30.80
+"Estonia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",73.50
+"Estonia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",245.13
+"Estonia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",353.67
+"Estonia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",311.80
+"Estonia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",310.00
+"Estonia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",316.00
+"Estonia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",317.00
+"Estonia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",316.00
+"Estonia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",723.00
+"Estonia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",636.00
+"Estonia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",687.00
+"Estonia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",844.00
+"Estonia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",733.00
+"Estonia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Estonia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Estonia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Estonia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Estonia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Estonia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Estonia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Estonia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Estonia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Estonia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Estonia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Estonia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Estonia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Estonia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Estonia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Estonia","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Estonia","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Estonia","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Estonia","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Estonia","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Finland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",77.00
+"Finland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",133.00
+"Finland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",210.00
+"Finland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",299.00
+"Finland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",398.00
+"Finland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",48.51
+"Finland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",90.23
+"Finland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",147.18
+"Finland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",218.47
+"Finland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",297.52
+"Finland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",2012.00
+"Finland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",2009.00
+"Finland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",2252.00
+"Finland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",2554.00
+"Finland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",3225.00
+"Finland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",4693.32
+"Finland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",5600.89
+"Finland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",5754.08
+"Finland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",7950.67
+"Finland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",8239.91
+"Finland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",32.00
+"Finland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",32.00
+"Finland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",32.00
+"Finland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",32.00
+"Finland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",32.00
+"Finland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",101.88
+"Finland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",237.78
+"Finland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",270.67
+"Finland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",305.01
+"Finland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",266.83
+"Finland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Finland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Finland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Finland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Finland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Finland","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Finland","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Finland","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Finland","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Finland","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"France","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",8100.41
+"France","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",8998.22
+"France","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",9943.70
+"France","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",10889.49
+"France","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",13072.63
+"France","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",9586.61
+"France","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",10808.15
+"France","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",12165.28
+"France","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",13189.17
+"France","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",15356.91
+"France","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",13488.55
+"France","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",14887.34
+"France","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",16412.55
+"France","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",17520.97
+"France","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",18536.82
+"France","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",24609.44
+"France","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",28598.60
+"France","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",34721.68
+"France","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",40045.40
+"France","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",37119.41
+"France","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",10.80
+"France","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",12.80
+"France","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",14.30
+"France","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",14.30
+"France","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",14.30
+"France","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"France","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"France","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"France","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"France","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"France","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",16.15
+"France","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",16.15
+"France","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",16.15
+"France","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",16.15
+"France","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",16.15
+"France","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",133.13
+"France","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",126.98
+"France","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",128.49
+"France","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",133.20
+"France","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",100.31
+"Germany","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",41402.00
+"Germany","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",44033.00
+"Germany","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",47485.00
+"Germany","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",51783.00
+"Germany","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",57461.00
+"Germany","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",39401.00
+"Germany","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",43459.00
+"Germany","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",44383.00
+"Germany","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",49496.00
+"Germany","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",50472.00
+"Germany","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",50174.00
+"Germany","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",52328.00
+"Germany","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",53187.00
+"Germany","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",54414.00
+"Germany","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",55904.00
+"Germany","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",88018.00
+"Germany","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",90484.00
+"Germany","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",101150.00
+"Germany","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",104796.00
+"Germany","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",89795.00
+"Germany","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",5406.00
+"Germany","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",6393.00
+"Germany","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",7555.00
+"Germany","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",7787.00
+"Germany","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",7807.00
+"Germany","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",17675.00
+"Germany","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",19467.00
+"Germany","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",24744.00
+"Germany","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",27306.00
+"Germany","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",24374.00
+"Germany","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",32.00
+"Germany","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",35.00
+"Germany","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",40.00
+"Germany","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",40.00
+"Germany","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",46.00
+"Germany","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",163.00
+"Germany","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",178.00
+"Germany","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",197.00
+"Germany","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",231.00
+"Germany","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",244.00
+"Greece","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",2551.54
+"Greece","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",2591.03
+"Greece","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",2753.80
+"Greece","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",3173.73
+"Greece","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",4073.40
+"Greece","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",3991.48
+"Greece","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",3790.65
+"Greece","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",4428.51
+"Greece","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",4446.85
+"Greece","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",5250.98
+"Greece","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",2624.00
+"Greece","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",2877.50
+"Greece","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",3589.00
+"Greece","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",4119.25
+"Greece","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",4649.13
+"Greece","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",5536.99
+"Greece","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",6300.26
+"Greece","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",7266.35
+"Greece","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",9310.10
+"Greece","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",10482.98
+"Greece","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Greece","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Greece","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Greece","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Greece","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Greece","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Greece","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Greece","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Greece","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Greece","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Greece","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Greece","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Greece","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Greece","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Greece","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Greece","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Greece","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Greece","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Greece","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Greece","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Hungary","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",344.00
+"Hungary","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",728.00
+"Hungary","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",1400.00
+"Hungary","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",2131.00
+"Hungary","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",2968.00
+"Hungary","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",349.00
+"Hungary","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",629.00
+"Hungary","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",1497.00
+"Hungary","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",2459.00
+"Hungary","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",3796.00
+"Hungary","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",329.00
+"Hungary","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",329.00
+"Hungary","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",323.00
+"Hungary","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",323.00
+"Hungary","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",324.00
+"Hungary","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",758.00
+"Hungary","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",607.00
+"Hungary","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",729.00
+"Hungary","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",655.00
+"Hungary","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",664.00
+"Hungary","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Hungary","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Hungary","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Hungary","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Hungary","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Hungary","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Hungary","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Hungary","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Hungary","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Hungary","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Hungary","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",3.00
+"Hungary","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",3.00
+"Hungary","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",3.00
+"Hungary","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",3.00
+"Hungary","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",3.00
+"Hungary","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",1.00
+"Hungary","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",12.00
+"Hungary","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",18.00
+"Hungary","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",16.00
+"Hungary","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",12.00
+"Ireland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",13.16
+"Ireland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",24.01
+"Ireland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",44.72
+"Ireland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",72.89
+"Ireland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",111.95
+"Ireland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",9.95
+"Ireland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",18.15
+"Ireland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",33.81
+"Ireland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",55.11
+"Ireland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",84.65
+"Ireland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",3293.95
+"Ireland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",3648.65
+"Ireland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",4101.25
+"Ireland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",4281.50
+"Ireland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",4313.84
+"Ireland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",7486.00
+"Ireland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",8701.53
+"Ireland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",10103.95
+"Ireland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",11659.25
+"Ireland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",9858.71
+"Ireland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",25.20
+"Ireland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",25.20
+"Ireland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",25.20
+"Ireland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",25.20
+"Ireland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",25.20
+"Ireland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",81.00
+"Ireland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",81.00
+"Ireland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",81.00
+"Ireland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",81.00
+"Ireland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",81.00
+"Ireland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Ireland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Ireland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Ireland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Ireland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Ireland","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Ireland","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Ireland","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Ireland","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Ireland","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Italy","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",19499.29
+"Italy","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",19911.59
+"Italy","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",20620.27
+"Italy","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",21354.04
+"Italy","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",22281.25
+"Italy","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",24377.71
+"Italy","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",22653.84
+"Italy","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",23688.90
+"Italy","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",24941.50
+"Italy","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",25038.99
+"Italy","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",9736.58
+"Italy","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",10230.25
+"Italy","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",10679.46
+"Italy","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",10870.62
+"Italy","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",11253.73
+"Italy","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",17741.91
+"Italy","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",17716.43
+"Italy","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",20202.04
+"Italy","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",18761.56
+"Italy","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",20927.30
+"Italy","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Italy","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Italy","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Italy","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Italy","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Italy","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Italy","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Italy","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Italy","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Italy","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Italy","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",767.19
+"Italy","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",767.19
+"Italy","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",767.19
+"Italy","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",771.79
+"Italy","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",771.79
+"Italy","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",6201.16
+"Italy","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",6105.39
+"Italy","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",6074.86
+"Italy","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",6026.11
+"Italy","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",5913.79
+"Latvia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",0.69
+"Latvia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",1.96
+"Latvia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",3.30
+"Latvia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",5.10
+"Latvia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",7.16
+"Latvia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",0.44
+"Latvia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",1.27
+"Latvia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",3.14
+"Latvia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",4.85
+"Latvia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",6.80
+"Latvia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",77.11
+"Latvia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",78.17
+"Latvia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",78.17
+"Latvia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",78.17
+"Latvia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",77.13
+"Latvia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",150.00
+"Latvia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",122.04
+"Latvia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",154.00
+"Latvia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",176.84
+"Latvia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",141.44
+"Latvia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Latvia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Latvia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Latvia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Latvia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Latvia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Latvia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Latvia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Latvia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Latvia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Latvia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Latvia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Latvia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Latvia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Latvia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Latvia","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Latvia","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Latvia","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Latvia","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Latvia","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Lithuania","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",71.25
+"Lithuania","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",79.09
+"Lithuania","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",100.01
+"Lithuania","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",160.50
+"Lithuania","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",250.88
+"Lithuania","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",65.00
+"Lithuania","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",80.10
+"Lithuania","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",74.40
+"Lithuania","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",73.20
+"Lithuania","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",70.30
+"Lithuania","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",518.00
+"Lithuania","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",533.00
+"Lithuania","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",534.00
+"Lithuania","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",540.00
+"Lithuania","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",671.00
+"Lithuania","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",1363.80
+"Lithuania","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",1144.00
+"Lithuania","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",1499.40
+"Lithuania","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",1551.70
+"Lithuania","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",1361.70
+"Lithuania","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Lithuania","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Lithuania","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Lithuania","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Lithuania","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Lithuania","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Lithuania","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Lithuania","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Lithuania","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Lithuania","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Lithuania","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Lithuania","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Lithuania","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Lithuania","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Lithuania","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Lithuania","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Lithuania","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Lithuania","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Lithuania","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Lithuania","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Netherlands (Kingdom of the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",2910.89
+"Netherlands (Kingdom of the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",4608.00
+"Netherlands (Kingdom of the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",7227.60
+"Netherlands (Kingdom of the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",11110.02
+"Netherlands (Kingdom of the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",14822.88
+"Netherlands (Kingdom of the)","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",2204.35
+"Netherlands (Kingdom of the)","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",3707.79
+"Netherlands (Kingdom of the)","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",5399.41
+"Netherlands (Kingdom of the)","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",8567.01
+"Netherlands (Kingdom of the)","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",11303.87
+"Netherlands (Kingdom of the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",3245.00
+"Netherlands (Kingdom of the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",3436.11
+"Netherlands (Kingdom of the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",3527.16
+"Netherlands (Kingdom of the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",4188.38
+"Netherlands (Kingdom of the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",5186.02
+"Netherlands (Kingdom of the)","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",6869.29
+"Netherlands (Kingdom of the)","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",6918.32
+"Netherlands (Kingdom of the)","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",7935.07
+"Netherlands (Kingdom of the)","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",9794.19
+"Netherlands (Kingdom of the)","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",10057.57
+"Netherlands (Kingdom of the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",957.00
+"Netherlands (Kingdom of the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",957.00
+"Netherlands (Kingdom of the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",957.00
+"Netherlands (Kingdom of the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",2459.50
+"Netherlands (Kingdom of the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",2459.50
+"Netherlands (Kingdom of the)","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",3699.51
+"Netherlands (Kingdom of the)","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",3630.19
+"Netherlands (Kingdom of the)","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",3572.86
+"Netherlands (Kingdom of the)","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",5483.54
+"Netherlands (Kingdom of the)","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",8065.79
+"Netherlands (Kingdom of the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Netherlands (Kingdom of the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Netherlands (Kingdom of the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Netherlands (Kingdom of the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Netherlands (Kingdom of the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Netherlands (Kingdom of the)","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Netherlands (Kingdom of the)","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Netherlands (Kingdom of the)","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Netherlands (Kingdom of the)","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Netherlands (Kingdom of the)","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Norway","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",44.90
+"Norway","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",68.41
+"Norway","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",119.83
+"Norway","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",124.44
+"Norway","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",165.60
+"Norway","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",39.96
+"Norway","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",60.88
+"Norway","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",106.65
+"Norway","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",82.32
+"Norway","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",108.94
+"Norway","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",1204.70
+"Norway","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",1707.70
+"Norway","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",2911.70
+"Norway","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",4027.70
+"Norway","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",5046.70
+"Norway","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",2849.00
+"Norway","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",3871.86
+"Norway","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",5519.51
+"Norway","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",9907.53
+"Norway","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",11764.18
+"Norway","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",2.30
+"Norway","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",2.30
+"Norway","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",2.30
+"Norway","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",2.30
+"Norway","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",2.30
+"Norway","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",5.00
+"Norway","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",5.00
+"Norway","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",5.00
+"Norway","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",5.00
+"Norway","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",5.00
+"Norway","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Norway","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Norway","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Norway","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Norway","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Norway","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Norway","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Norway","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Norway","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Norway","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Poland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",277.09
+"Poland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",535.98
+"Poland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",1495.25
+"Poland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",3794.96
+"Poland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",7090.54
+"Poland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",165.46
+"Poland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",300.49
+"Poland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",710.67
+"Poland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",1957.92
+"Poland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",3934.45
+"Poland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",5759.36
+"Poland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",5766.08
+"Poland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",5837.76
+"Poland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",6298.25
+"Poland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",6967.34
+"Poland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",14909.04
+"Poland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",12798.79
+"Poland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",15106.76
+"Poland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",15800.05
+"Poland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",16233.55
+"Poland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Poland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Poland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Poland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Poland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Poland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Poland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Poland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Poland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Poland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Poland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Poland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Poland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Poland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Poland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Poland","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Poland","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Poland","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Poland","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Poland","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Romania","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",1374.13
+"Romania","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",1385.82
+"Romania","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",1397.71
+"Romania","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",1382.54
+"Romania","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",1393.92
+"Romania","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",1855.67
+"Romania","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",1771.03
+"Romania","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",1777.62
+"Romania","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",1733.38
+"Romania","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",1703.35
+"Romania","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",3029.80
+"Romania","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",3032.26
+"Romania","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",3037.52
+"Romania","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",3012.53
+"Romania","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",3014.96
+"Romania","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",7406.70
+"Romania","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",6322.22
+"Romania","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",6772.81
+"Romania","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",6945.46
+"Romania","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",6575.55
+"Romania","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Romania","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Romania","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Romania","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Romania","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Romania","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Romania","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Romania","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Romania","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Romania","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Romania","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",0.05
+"Romania","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",0.05
+"Romania","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",0.05
+"Romania","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",0.05
+"Romania","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",0.05
+"Romania","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Romania","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Romania","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Romania","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Romania","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Serbia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",10.00
+"Serbia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",11.00
+"Serbia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",11.00
+"Serbia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",11.50
+"Serbia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",12.13
+"Serbia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",13.14
+"Serbia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",13.04
+"Serbia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",13.55
+"Serbia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",13.26
+"Serbia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",13.52
+"Serbia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",25.00
+"Serbia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",227.00
+"Serbia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",398.00
+"Serbia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",398.00
+"Serbia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",398.00
+"Serbia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",48.46
+"Serbia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",150.42
+"Serbia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",898.21
+"Serbia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",975.63
+"Serbia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",1084.54
+"Serbia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Serbia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Serbia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Serbia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Serbia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Serbia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Serbia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Serbia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Serbia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Serbia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Serbia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Serbia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Serbia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Serbia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Serbia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Serbia","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Serbia","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Serbia","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Serbia","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Serbia","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Slovakia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",528.00
+"Slovakia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",471.00
+"Slovakia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",590.00
+"Slovakia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",535.00
+"Slovakia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",537.00
+"Slovakia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",506.00
+"Slovakia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",585.00
+"Slovakia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",589.00
+"Slovakia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",663.00
+"Slovakia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",671.00
+"Slovakia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",4.00
+"Slovakia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",3.00
+"Slovakia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",4.00
+"Slovakia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",4.00
+"Slovakia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",4.00
+"Slovakia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",6.00
+"Slovakia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",6.00
+"Slovakia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",6.00
+"Slovakia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",4.00
+"Slovakia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",5.00
+"Slovakia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Slovakia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Slovakia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Slovakia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Slovakia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Slovakia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Slovakia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Slovakia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Slovakia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Slovakia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Slovakia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Slovakia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Slovakia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Slovakia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Slovakia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Slovakia","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Slovakia","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Slovakia","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Slovakia","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Slovakia","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Slovenia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",246.80
+"Slovenia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",246.80
+"Slovenia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",277.88
+"Slovenia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",369.78
+"Slovenia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",461.16
+"Slovenia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",283.87
+"Slovenia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",254.96
+"Slovenia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",303.04
+"Slovenia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",368.20
+"Slovenia","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",453.11
+"Slovenia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",3.30
+"Slovenia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",3.30
+"Slovenia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",3.30
+"Slovenia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",3.30
+"Slovenia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",3.33
+"Slovenia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",5.72
+"Slovenia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",6.02
+"Slovenia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",6.15
+"Slovenia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",6.25
+"Slovenia","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",5.59
+"Slovenia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Slovenia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Slovenia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Slovenia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Slovenia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Slovenia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Slovenia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Slovenia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Slovenia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Slovenia","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Slovenia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Slovenia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Slovenia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Slovenia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Slovenia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Slovenia","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Slovenia","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Slovenia","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Slovenia","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Slovenia","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Sweden","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",231.00
+"Sweden","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",411.00
+"Sweden","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",698.00
+"Sweden","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",1090.00
+"Sweden","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",1587.00
+"Sweden","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",220.00
+"Sweden","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",391.00
+"Sweden","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",664.00
+"Sweden","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",1035.00
+"Sweden","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",1508.00
+"Sweden","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",6408.00
+"Sweden","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",7097.00
+"Sweden","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",8478.00
+"Sweden","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",9773.00
+"Sweden","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",11923.00
+"Sweden","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",16939.00
+"Sweden","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",16073.00
+"Sweden","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",19241.00
+"Sweden","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",26893.00
+"Sweden","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",26697.00
+"Sweden","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",203.00
+"Sweden","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",203.00
+"Sweden","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",203.00
+"Sweden","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",203.00
+"Sweden","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",193.00
+"Sweden","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",670.00
+"Sweden","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",550.00
+"Sweden","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",606.00
+"Sweden","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",633.00
+"Sweden","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",547.00
+"Sweden","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Sweden","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Sweden","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Sweden","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Sweden","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Sweden","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Sweden","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Sweden","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Sweden","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Sweden","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-
+"Switzerland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",1860.00
+"Switzerland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",2117.00
+"Switzerland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",2425.00
+"Switzerland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",2875.26
+"Switzerland","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",3515.43
+"Switzerland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2017",1683.21
+"Switzerland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2018",1945.10
+"Switzerland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2019",2177.67
+"Switzerland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2020",2598.66
+"Switzerland","Solar photovoltaic","Electricity Generation (GWh)","On-grid","2021",2842.00
+"Switzerland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",75.00
+"Switzerland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",75.00
+"Switzerland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",75.00
+"Switzerland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",87.12
+"Switzerland","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",88.32
+"Switzerland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2017",133.00
+"Switzerland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2018",122.00
+"Switzerland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2019",145.92
+"Switzerland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2020",145.45
+"Switzerland","Onshore wind energy","Electricity Generation (GWh)","On-grid","2021",144.94
+"Switzerland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Switzerland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Switzerland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Switzerland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Switzerland","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Switzerland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2017",-
+"Switzerland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2018",-
+"Switzerland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2019",-
+"Switzerland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2020",-
+"Switzerland","Offshore wind energy","Electricity Generation (GWh)","On-grid","2021",-
+"Switzerland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Switzerland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Switzerland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Switzerland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Switzerland","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Switzerland","Geothermal energy","Electricity Generation (GWh)","On-grid","2017",-
+"Switzerland","Geothermal energy","Electricity Generation (GWh)","On-grid","2018",-
+"Switzerland","Geothermal energy","Electricity Generation (GWh)","On-grid","2019",-
+"Switzerland","Geothermal energy","Electricity Generation (GWh)","On-grid","2020",-
+"Switzerland","Geothermal energy","Electricity Generation (GWh)","On-grid","2021",-

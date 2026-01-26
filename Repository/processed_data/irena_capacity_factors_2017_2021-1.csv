@@ -1,0 +1,67 @@
+Country,Technology,CapacityFactor
+AT,Geothermal energy,0.0183
+AT,Onshore wind energy,0.24124
+AT,Solar photovoltaic,0.114668
+BE,Offshore wind energy,0.350161
+BE,Onshore wind energy,0.236671
+BE,Solar photovoltaic,0.10796
+BG,Onshore wind energy,0.229438
+BG,Solar photovoltaic,0.147785
+CH,Onshore wind energy,0.197075
+CH,Solar photovoltaic,0.100359
+CZ,Onshore wind energy,0.222451
+CZ,Solar photovoltaic,0.124027
+DE,Geothermal energy,0.599167
+DE,Offshore wind energy,0.370956
+DE,Onshore wind energy,0.203518
+DE,Solar photovoltaic,0.107106
+DK,Offshore wind energy,0.397587
+DK,Onshore wind energy,0.240527
+DK,Solar photovoltaic,0.09824
+EE,Onshore wind energy,0.263295
+EE,Solar photovoltaic,0.106394
+FI,Offshore wind energy,0.843443
+FI,Onshore wind energy,0.305363
+FI,Solar photovoltaic,0.081954
+FR,Geothermal energy,0.879469
+FR,Offshore wind energy,0.0
+FR,Onshore wind energy,0.233114
+FR,Solar photovoltaic,0.136764
+GR,Onshore wind energy,0.24863
+GR,Solar photovoltaic,0.165151
+HR,Geothermal energy,0.791381
+HR,Onshore wind energy,0.247207
+HR,Solar photovoltaic,0.119573
+HU,Geothermal energy,0.449011
+HU,Onshore wind energy,0.239319
+HU,Solar photovoltaic,0.131631
+IE,Offshore wind energy,0.366928
+IE,Onshore wind energy,0.277898
+IE,Solar photovoltaic,0.086311
+IT,Geothermal energy,0.900183
+IT,Onshore wind energy,0.206263
+IT,Solar photovoltaic,0.132913
+LT,Onshore wind energy,0.282555
+LT,Solar photovoltaic,0.062621
+LV,Onshore wind energy,0.218567
+LV,Solar photovoltaic,0.103436
+NL,Offshore wind energy,0.35832
+NL,Onshore wind energy,0.242354
+NL,Solar photovoltaic,0.087505
+NO,Offshore wind energy,0.248164
+NO,Onshore wind energy,0.259841
+NO,Solar photovoltaic,0.087005
+PL,Onshore wind energy,0.278963
+PL,Solar photovoltaic,0.061162
+RO,Geothermal energy,0.0
+RO,Onshore wind energy,0.25675
+RO,Solar photovoltaic,0.145549
+RS,Onshore wind energy,0.249252
+RS,Solar photovoltaic,0.136481
+SE,Offshore wind energy,0.341443
+SE,Onshore wind energy,0.276621
+SE,Solar photovoltaic,0.1085
+SI,Onshore wind energy,0.205314
+SI,Solar photovoltaic,0.118484
+SK,Onshore wind energy,0.162221
+SK,Solar photovoltaic,0.129299

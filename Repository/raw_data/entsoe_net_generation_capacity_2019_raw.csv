@@ -1,0 +1,398 @@
+MeasureItem	MeasureItemCategoryID	MeasureItemID	Category	Country	Year	Representativity	ProvidedValue	CreationDate	ProvidedValueCode
+Net Generating Capacity	6	B01	Biomass	AL	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	AL	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	AL	2019	100	1492.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	AT	2019	100	499.80	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	AT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B03	Fossil Coal-derived gas	AT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	AT	2019	100	4463.20	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	AT	2019	100	598.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	AT	2019	100	177.90	29-05-2024 00:00:00	
+Net Generating Capacity	6	B07	Fossil Oil shale	AT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B08	Fossil Peat	AT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B09	Geothermal	AT	2019	100	0.90	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	AT	2019	100	3120.10	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	AT	2019	100	5557.80	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	AT	2019	100	2439.60	29-05-2024 00:00:00	
+Net Generating Capacity	6	B13	Marine	AT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	AT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	AT	2019	100	22.80	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	AT	2019	100	42.30	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	AT	2019	100	1192.70	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	AT	2019	100	150.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B18	Wind Offshore	AT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	AT	2019	100	3034.60	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	BA	2019	100	988.50	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	BA	2019	100	887.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	BA	2019	100	2169.80	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	BA	2019	100	86.60	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	BE	2019	100	619.25	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	BE	2019	100	6641.97	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	BE	2019	100	242.13	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	BE	2019	100	1308.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	BE	2019	100	172.49	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	BE	2019	100	5943.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	BE	2019	100	18.50	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	BE	2019	100	3369.05	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	BE	2019	100	362.14	29-05-2024 00:00:00	
+Net Generating Capacity	6	B18	Wind Offshore	BE	2019	100	1548.20	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	BE	2019	100	2248.08	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	BG	2019	100	74.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	BG	2019	100	4119.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	BG	2019	100	1232.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	BG	2019	100	356.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	BG	2019	100	864.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	BG	2019	100	537.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	BG	2019	100	1810.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	BG	2019	100	2000.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	BG	2019	100	1059.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	BG	2019	100	6.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	BG	2019	100	700.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	CH	2019	100	6640.70	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	CH	2019	100	634.50	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	CH	2019	100	5418.80	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	CH	2019	100	3373.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	CY	2019	100	12.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	CY	2019	100	1478.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	CY	2019	100	150.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	CY	2019	100	158.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	CZ	2019	100	400.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	CZ	2019	100	8450.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B03	Fossil Coal-derived gas	CZ	2019	100	380.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	CZ	2019	100	1226.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	CZ	2019	100	1200.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	CZ	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	CZ	2019	100	1172.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	CZ	2019	100	334.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	CZ	2019	100	753.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	CZ	2019	100	4040.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	CZ	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	CZ	2019	100	400.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	CZ	2019	100	2049.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	CZ	2019	100	100.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	CZ	2019	100	316.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	DE	2019	100	7752.13	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	DE	2019	100	21205.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B03	Fossil Coal-derived gas	DE	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	DE	2019	100	31664.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	DE	2019	100	25293.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	DE	2019	100	4356.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B09	Geothermal	DE	2019	100	41.75	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	DE	2019	100	9422.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	DE	2019	100	3982.92	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	DE	2019	100	1298.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	DE	2019	100	9516.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	DE	2019	100	1235.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	DE	2019	100	444.59	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	DE	2019	100	45298.98	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	DE	2019	100	1686.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B18	Wind Offshore	DE	2019	100	6393.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	DE	2019	100	52791.63	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	DK	2019	100	1722.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	DK	2019	100	1814.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	DK	2019	100	3656.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	DK	2019	100	1007.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	DK	2019	100	7.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	DK	2019	100	135.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	DK	2019	100	1014.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	DK	2019	100	384.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B18	Wind Offshore	DK	2019	100	1700.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	DK	2019	100	4426.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	EE	2019	100	157.20	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	EE	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B03	Fossil Coal-derived gas	EE	2019	100	51.30	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	EE	2019	100	125.26	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	EE	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	EE	2019	100	7.87	29-05-2024 00:00:00	
+Net Generating Capacity	6	B07	Fossil Oil shale	EE	2019	100	1970.30	29-05-2024 00:00:00	
+Net Generating Capacity	6	B08	Fossil Peat	EE	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B09	Geothermal	EE	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	EE	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	EE	2019	100	7.13	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	EE	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B13	Marine	EE	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	EE	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	EE	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	EE	2019	100	11.83	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	EE	2019	100	33.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	EE	2019	100	18.54	29-05-2024 00:00:00	
+Net Generating Capacity	6	B18	Wind Offshore	EE	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	EE	2019	100	462.40	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	ES	2019	100	507.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	ES	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B03	Fossil Coal-derived gas	ES	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	ES	2019	100	30266.30	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	ES	2019	100	9560.70	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	ES	2019	100	713.80	29-05-2024 00:00:00	
+Net Generating Capacity	6	B07	Fossil Oil shale	ES	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B08	Fossil Peat	ES	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B09	Geothermal	ES	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	ES	2019	100	5645.40	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	ES	2019	100	1156.20	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	ES	2019	100	19145.80	29-05-2024 00:00:00	
+Net Generating Capacity	6	B13	Marine	ES	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	ES	2019	100	7117.20	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	ES	2019	100	117.40	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	ES	2019	100	260.90	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	ES	2019	100	6751.10	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	ES	2019	100	537.60	29-05-2024 00:00:00	
+Net Generating Capacity	6	B18	Wind Offshore	ES	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	ES	2019	100	22960.60	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	FI	2019	100	1804.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	FI	2019	100	1912.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	FI	2019	100	2278.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	FI	2019	100	1434.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B08	Fossil Peat	FI	2019	100	1135.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	FI	2019	100	3148.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	FI	2019	100	2785.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	FI	2019	100	334.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	FI	2019	100	257.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	FI	2019	100	3.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	FI	2019	100	157.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	FI	2019	100	2013.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	FR	2019	100	1931.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	FR	2019	100	11952.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	FR	2019	100	3966.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	FR	2019	100	3271.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	FR	2019	100	5023.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	FR	2019	100	10955.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	FR	2019	100	8279.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B13	Marine	FR	2019	100	240.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	FR	2019	100	63130.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	FR	2019	100	108.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	FR	2019	100	8188.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	FR	2019	100	13610.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	GB	2019	100	4061.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	GB	2019	100	37698.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	GB	2019	100	8794.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	GB	2019	100	316.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	GB	2019	100	2744.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	GB	2019	100	1885.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	GB	2019	100	9229.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	GB	2019	100	4506.13	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	GB	2019	100	1873.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	GB	2019	100	13438.42	29-05-2024 00:00:00	
+Net Generating Capacity	6	B18	Wind Offshore	GB	2019	100	9379.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	GB	2019	100	13633.25	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	GE	2019	100	912.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	GE	2019	100	13.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	GE	2019	100	1160.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	GE	2019	100	1992.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	GE	2019	100	20.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	GR	2019	100	51.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	GR	2019	100	3912.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	GR	2019	100	4902.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	GR	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B09	Geothermal	GR	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	GR	2019	100	699.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	GR	2019	100	299.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	GR	2019	100	2403.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	GR	2019	100	69.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	GR	2019	100	2441.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	GR	2019	100	2355.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	HR	2019	100	71.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	HR	2019	100	743.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	HR	2019	100	332.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	HR	2019	100	937.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B09	Geothermal	HR	2019	100	10.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	HR	2019	100	283.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	HR	2019	100	421.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	HR	2019	100	1436.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	HR	2019	100	49.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	HR	2019	100	53.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	HR	2019	100	6.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	HR	2019	100	616.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	HU	2019	100	245.95	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	HU	2019	100	1048.87	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	HU	2019	100	4028.43	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	HU	2019	100	421.06	29-05-2024 00:00:00	
+Net Generating Capacity	6	B09	Geothermal	HU	2019	100	2.70	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	HU	2019	100	29.65	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	HU	2019	100	28.16	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	HU	2019	100	1898.87	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	HU	2019	100	74.40	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	HU	2019	100	936.25	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	HU	2019	100	59.44	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	HU	2019	100	327.48	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	IE	2019	100	4265.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	IE	2019	100	855.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	IE	2019	100	1272.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B08	Fossil Peat	IE	2019	100	343.60	29-05-2024 00:00:00	
+Net Generating Capacity	6	B09	Geothermal	IE	2019	100	17.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	IE	2019	100	292.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	IE	2019	100	216.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	IE	2019	100	647.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	IE	2019	100	1918.73	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	IT	2019	100	1538.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	IT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B03	Fossil Coal-derived gas	IT	2019	100	1812.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	IT	2019	100	46322.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	IT	2019	100	4851.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	IT	2019	100	1443.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B08	Fossil Peat	IT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B09	Geothermal	IT	2019	100	869.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	IT	2019	100	7574.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	IT	2019	100	10650.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	IT	2019	100	3857.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B13	Marine	IT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	IT	2019	100	991.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	IT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	IT	2019	100	4717.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	IT	2019	100	132.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B18	Wind Offshore	IT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	IT	2019	100	9617.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	LT	2019	100	96.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	LT	2019	100	1710.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	LT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	LT	2019	100	900.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	LT	2019	100	128.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	LT	2019	100	140.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	LT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	LT	2019	100	82.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	LT	2019	100	21.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	LT	2019	100	525.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	LU	2019	100	30.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	LU	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B03	Fossil Coal-derived gas	LU	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	LU	2019	100	81.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	LU	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	LU	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B07	Fossil Oil shale	LU	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B08	Fossil Peat	LU	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B09	Geothermal	LU	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	LU	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	LU	2019	100	25.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	LU	2019	100	11.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B13	Marine	LU	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	LU	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	LU	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	LU	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	LU	2019	100	136.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	LU	2019	100	21.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B18	Wind Offshore	LU	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	LU	2019	100	154.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	LV	2019	100	126.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	LV	2019	100	1110.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	LV	2019	100	1539.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	LV	2019	100	7.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	LV	2019	100	59.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	ME	2019	100	210.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	ME	2019	100	307.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	ME	2019	100	342.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	ME	2019	100	118.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	MK	2019	100	824.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	MK	2019	100	251.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	MK	2019	100	165.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	MK	2019	100	506.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	MK	2019	100	35.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	NL	2019	100	485.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	NL	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B03	Fossil Coal-derived gas	NL	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	NL	2019	100	15570.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	NL	2019	100	4631.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	NL	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B07	Fossil Oil shale	NL	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B08	Fossil Peat	NL	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B09	Geothermal	NL	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	NL	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	NL	2019	100	38.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	NL	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B13	Marine	NL	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	NL	2019	100	486.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	NL	2019	100	1.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	NL	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	NL	2019	100	4608.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	NL	2019	100	758.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B18	Wind Offshore	NL	2019	100	957.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	NL	2019	100	3436.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	NO	2019	100	634.60	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	NO	2019	100	1031.30	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	NO	2019	100	5937.13	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	NO	2019	100	26472.27	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	NO	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	NO	2019	100	2261.80	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	PL	2019	100	849.38	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	PL	2019	100	8013.46	29-05-2024 00:00:00	
+Net Generating Capacity	6	B03	Fossil Coal-derived gas	PL	2019	100	271.60	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	PL	2019	100	2106.33	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	PL	2019	100	22261.06	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	PL	2019	100	415.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	PL	2019	100	1780.02	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	PL	2019	100	435.43	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	PL	2019	100	156.51	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	PL	2019	100	430.13	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	PL	2019	100	5807.67	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	PT	2019	100	604.80	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	PT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B03	Fossil Coal-derived gas	PT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	PT	2019	100	4606.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	PT	2019	100	1756.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	PT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B07	Fossil Oil shale	PT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B08	Fossil Peat	PT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B09	Geothermal	PT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	PT	2019	100	2820.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	PT	2019	100	2857.60	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	PT	2019	100	1515.30	29-05-2024 00:00:00	
+Net Generating Capacity	6	B13	Marine	PT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	PT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	PT	2019	100	36.20	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	PT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	PT	2019	100	323.50	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	PT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B18	Wind Offshore	PT	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	PT	2019	100	5126.60	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	RO	2019	100	115.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	RO	2019	100	3096.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	RO	2019	100	3033.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	RO	2019	100	1032.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	RO	2019	100	2770.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	RO	2019	100	3373.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	RO	2019	100	1300.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	RO	2019	100	1150.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	RO	2019	100	2968.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	RS	2019	100	8.31	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	RS	2019	100	5600.50	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	RS	2019	100	286.41	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	RS	2019	100	639.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	RS	2019	100	1981.98	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	RS	2019	100	344.70	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	RS	2019	100	22.63	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	RS	2019	100	398.32	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	SE	2019	100	16301.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	SE	2019	100	8586.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	SE	2019	100	8439.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	SE	2019	100	7506.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	SI	2019	100	17.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	SI	2019	100	924.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B03	Fossil Coal-derived gas	SI	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	SI	2019	100	491.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	SI	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	SI	2019	100	58.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B07	Fossil Oil shale	SI	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B08	Fossil Peat	SI	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B09	Geothermal	SI	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	SI	2019	100	180.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	SI	2019	100	1053.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	SI	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B13	Marine	SI	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	SI	2019	100	696.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	SI	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	SI	2019	100	1.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	SI	2019	100	275.34	29-05-2024 00:00:00	
+Net Generating Capacity	6	B17	Waste	SI	2019	100	40.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B18	Wind Offshore	SI	2019	100	0.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	SI	2019	100	3.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B01	Biomass	SK	2019	100	214.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B02	Fossil Brown coal/Lignite	SK	2019	100	320.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B04	Fossil Gas	SK	2019	100	1153.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B05	Fossil Hard coal	SK	2019	100	221.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B06	Fossil Oil	SK	2019	100	257.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B10	Hydro Pumped Storage	SK	2019	100	916.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B11	Hydro Run-of-river and poundage	SK	2019	100	1208.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B12	Hydro Water Reservoir	SK	2019	100	418.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B14	Nuclear	SK	2019	100	1940.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B20	Other	SK	2019	100	418.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B15	Other renewable	SK	2019	100	116.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B16	Solar	SK	2019	100	531.00	29-05-2024 00:00:00	
+Net Generating Capacity	6	B19	Wind Onshore	SK	2019	100	3.00	29-05-2024 00:00:00	

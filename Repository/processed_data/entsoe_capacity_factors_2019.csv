@@ -1,0 +1,301 @@
+bidding_zone,Tech,Gen_MWh,Cap_MW,CapacityFactor,GhostGen
+AT,Biomass,2184501.0,499.8,0.4989440981872201,False
+AT,Fossil Brown coal/Lignite,0.0,0.0,,False
+AT,Fossil Hard coal,1250543.0,598.0,0.23872249202058612,False
+AT,Fossil Peat,0.0,0.0,,False
+AT,Gas,10164917.0,4463.2,0.25998804735795766,False
+AT,Hydro Run-of-river and poundage,27547266.0,5557.8,0.5658111246344149,False
+AT,Hydro Water Reservoir,4784215.0,2439.6,0.22386590623060446,False
+AT,Nuclear,0.0,0.0,,False
+AT,Oil,0.0,177.9,0.0,False
+AT,Other,192720.0,22.8,0.9649122807017544,False
+AT,Other renewable,0.0,42.3,0.0,False
+AT,Waste,876000.0,150.0,0.6666666666666666,False
+BE,Biomass,2377557.0,619.25,0.43828924737724045,False
+BE,Fossil Brown coal/Lignite,0.0,,,False
+BE,Fossil Hard coal,0.0,,,False
+BE,Fossil Peat,0.0,,,False
+BE,Gas,29165198.0,6641.97,0.5012609967047585,False
+BE,Hydro Run-of-river and poundage,155757.0,172.49,0.10308121892315376,False
+BE,Hydro Water Reservoir,0.0,,,False
+BE,Nuclear,41421658.0,5943.0,0.7956418932676254,False
+BE,Oil,2162.0,242.13,0.0010193022465949553,False
+BE,Other,0.0,18.5,0.0,False
+BE,Other renewable,0.0,,,False
+BE,Waste,2008938.0,362.14,0.6332656484172094,False
+BG,Biomass,233312.0,74.0,0.3599160804640257,False
+BG,Fossil Brown coal/Lignite,18408782.0,4119.0,0.5101867279485534,False
+BG,Fossil Hard coal,524615.0,356.0,0.16822347493715048,False
+BG,Fossil Peat,0.0,,,False
+BG,Gas,2196705.0,1232.0,0.20354335305105853,False
+BG,Hydro Run-of-river and poundage,1091789.0,537.0,0.23209208098432862,False
+BG,Hydro Water Reservoir,1802787.0,1810.0,0.1137003330053735,False
+BG,Nuclear,16558311.0,2000.0,0.9451090753424658,False
+BG,Oil,0.0,,,False
+BG,Other,0.0,,,False
+BG,Other renewable,0.0,,,False
+BG,Waste,30587.0,6.0,0.5819444444444445,False
+CH,Biomass,0.0,,,False
+CH,Fossil Brown coal/Lignite,0.0,,,False
+CH,Fossil Hard coal,0.0,,,False
+CH,Fossil Peat,0.0,,,False
+CH,Gas,0.0,,,False
+CH,Hydro Run-of-river and poundage,1946610.0,634.5,0.3502218336086013,False
+CH,Hydro Water Reservoir,11861328.0,5418.8,0.24987688726513782,False
+CH,Nuclear,25724212.0,3373.0,0.8706059535364775,False
+CH,Oil,0.0,,,False
+CH,Other,0.0,,,False
+CH,Other renewable,0.0,,,False
+CH,Waste,0.0,,,False
+CZ,Biomass,1956147.0,400.0,0.5582611301369863,False
+CZ,Fossil Brown coal/Lignite,31772316.0,8450.0,0.4292280132933452,False
+CZ,Fossil Hard coal,2002173.0,1200.0,0.19046546803652967,False
+CZ,Fossil Peat,0.0,,,False
+CZ,Gas,6876598.0,1606.0,0.48879188772696,False
+CZ,Hydro Run-of-river and poundage,846731.0,334.0,0.2893975747135865,False
+CZ,Hydro Water Reservoir,1081604.0,753.0,0.16397181441661057,False
+CZ,Nuclear,28579633.0,4040.0,0.8075532630317827,False
+CZ,Oil,52332.0,0.0,0.2,True
+CZ,Other,983921.0,0.0,0.2,True
+CZ,Other renewable,2362507.0,400.0,0.6742314497716895,False
+CZ,Waste,186341.0,100.0,0.21271803652968035,False
+DE,Biomass,39655013.0,7752.13,0.5839463435257832,False
+DE,Fossil Brown coal/Lignite,102728644.0,21205.0,0.5530306133105938,False
+DE,Fossil Hard coal,47815230.0,25293.0,0.21580514723603747,False
+DE,Fossil Peat,0.0,,,False
+DE,Gas,56816700.0,31664.0,0.20483592273668036,False
+DE,Hydro Run-of-river and poundage,14595458.0,3982.92,0.4183232838008249,False
+DE,Hydro Water Reservoir,1968776.0,1298.0,0.17314801134164962,False
+DE,Nuclear,71042119.0,9516.0,0.8522310777714438,False
+DE,Oil,3971798.0,4356.0,0.10408668461283654,False
+DE,Other,3328243.0,1235.0,0.3076408222875418,False
+DE,Other renewable,1370322.0,444.59,0.3518510359090275,False
+DE,Waste,6039241.0,1686.0,0.4089033648038913,False
+DK,Biomass,3706296.0,1722.0,0.24569869377754444,False
+DK,Fossil Brown coal/Lignite,0.0,,,False
+DK,Fossil Hard coal,3815370.0,3656.0,0.11913143341026948,False
+DK,Fossil Peat,0.0,,,False
+DK,Gas,2618087.0,1814.0,0.1647565485090594,False
+DK,Hydro Run-of-river and poundage,0.0,7.0,0.0,False
+DK,Hydro Water Reservoir,0.0,,,False
+DK,Nuclear,0.0,,,False
+DK,Oil,265967.0,1007.0,0.03015047634594369,False
+DK,Other,0.0,,,False
+DK,Other renewable,0.0,135.0,0.0,False
+DK,Waste,1313936.0,384.0,0.39060597412480974,False
+EE,Biomass,570966.0,157.2,0.41462320052981977,False
+EE,Fossil Brown coal/Lignite,0.0,0.0,,False
+EE,Fossil Hard coal,0.0,0.0,,False
+EE,Fossil Peat,35993.0,0.0,0.2,True
+EE,Gas,499809.0,176.56,0.3231525935535128,False
+EE,Hydro Run-of-river and poundage,21927.0,7.13,0.3510634210071279,False
+EE,Hydro Water Reservoir,0.0,0.0,,False
+EE,Nuclear,0.0,0.0,,False
+EE,Oil,4013425.0,1978.1699999999998,0.23160473508989896,False
+EE,Other,0.0,0.0,,False
+EE,Other renewable,50630.0,11.83,0.48856131574782785,False
+EE,Waste,117334.0,18.54,0.7224537344899096,False
+FI,Biomass,5947958.0,1804.0,0.3763806204375867,False
+FI,Fossil Brown coal/Lignite,0.0,,,False
+FI,Fossil Hard coal,4667420.0,2278.0,0.233893986954831,False
+FI,Fossil Peat,3718395.0,1135.0,0.3739861806770865,False
+FI,Gas,4490846.0,1912.0,0.26812429548537475,False
+FI,Hydro Run-of-river and poundage,11443972.0,3148.0,0.41499031058351177,False
+FI,Hydro Water Reservoir,0.0,,,False
+FI,Nuclear,22897213.0,2785.0,0.9385411491765246,False
+FI,Oil,13185.0,1434.0,0.0010496073823579985,False
+FI,Other,842800.0,334.0,0.2880540289284445,False
+FI,Other renewable,204341.0,257.0,0.09076497343780537,False
+FI,Waste,250880.0,157.0,0.18241572870313819,False
+FR,Biomass,3075844.0,1931.0,0.18183518606537413,False
+FR,Fossil Brown coal/Lignite,0.0,,,False
+FR,Fossil Hard coal,1596953.0,3966.0,0.045965852439802245,False
+FR,Fossil Peat,0.0,,,False
+FR,Gas,37861841.0,11952.0,0.3616238259736052,False
+FR,Hydro Run-of-river and poundage,40369534.0,10955.0,0.42066584137265567,False
+FR,Hydro Water Reservoir,13794187.0,8279.0,0.19020158005538576,False
+FR,Nuclear,377995474.0,63130.0,0.6835128823830221,False
+FR,Oil,1636137.0,3271.0,0.05709985635493314,False
+FR,Other,0.0,108.0,0.0,False
+FR,Other renewable,0.0,,,False
+FR,Waste,1746489.0,,0.2,True
+GR,Biomass,0.0,51.0,0.0,False
+GR,Fossil Brown coal/Lignite,10679317.0,3912.0,0.31163090852639347,False
+GR,Fossil Hard coal,0.0,,,False
+GR,Fossil Peat,0.0,,,False
+GR,Gas,17304453.0,4902.0,0.402977188511259,False
+GR,Hydro Run-of-river and poundage,0.0,299.0,0.0,False
+GR,Hydro Water Reservoir,2926012.0,2403.0,0.13900109642247038,False
+GR,Nuclear,0.0,,,False
+GR,Oil,0.0,0.0,,False
+GR,Other,0.0,,,False
+GR,Other renewable,0.0,69.0,0.0,False
+GR,Waste,0.0,,,False
+HR,Biomass,421329.0,71.0,0.6774213775805518,False
+HR,Fossil Brown coal/Lignite,0.0,,,False
+HR,Fossil Hard coal,1490973.0,332.0,0.5126578230731144,False
+HR,Fossil Peat,0.0,,,False
+HR,Gas,2171083.0,743.0,0.3335673285520259,False
+HR,Hydro Run-of-river and poundage,1634162.0,421.0,0.4431073005130208,False
+HR,Hydro Water Reservoir,3645702.0,1436.0,0.28981617506773,False
+HR,Nuclear,0.0,,,False
+HR,Oil,46676.0,937.0,0.0056865640365881594,False
+HR,Other,0.0,,,False
+HR,Other renewable,377011.0,49.0,0.8783221507781195,False
+HR,Waste,3239.0,6.0,0.0616248097412481,False
+HU,Biomass,977652.0,245.95,0.45376747139272655,False
+HU,Fossil Brown coal/Lignite,4038185.0,1048.87,0.439501580587728,False
+HU,Fossil Hard coal,0.0,,,False
+HU,Fossil Peat,0.0,,,False
+HU,Gas,7547315.0,4028.43,0.21387131941461227,False
+HU,Hydro Run-of-river and poundage,94131.0,29.65,0.36241308415532814,False
+HU,Hydro Water Reservoir,105365.0,28.16,0.42712954675176423,False
+HU,Nuclear,15358885.0,1898.87,0.923337234475885,False
+HU,Oil,5581.0,421.06,0.0015130871054505404,False
+HU,Other,708286.0,,0.2,True
+HU,Other renewable,106431.0,74.4,0.16330184857858301,False
+HU,Waste,132751.0,59.44,0.25494992840330144,False
+IE,Biomass,0.0,,,False
+IE,Fossil Brown coal/Lignite,0.0,,,False
+IE,Fossil Hard coal,790423.0,855.0,0.1055332585649817,False
+IE,Fossil Peat,2113230.0,343.6,0.7020846954885419,False
+IE,Gas,10445420.0,4265.0,0.2795778530783108,False
+IE,Hydro Run-of-river and poundage,833323.0,216.0,0.4404083164214443,False
+IE,Hydro Water Reservoir,0.0,,,False
+IE,Nuclear,0.0,,,False
+IE,Oil,2143254.0,1272.0,0.1923456750236926,False
+IE,Other,11160.0,647.0,0.001969045753848108,False
+IE,Other renewable,0.0,,,False
+IE,Waste,0.0,,,False
+IT,Biomass,5116409.0,1538.0,0.37975614716378386,False
+IT,Fossil Brown coal/Lignite,0.0,0.0,,False
+IT,Fossil Hard coal,20863004.75,4851.0,0.49095476124585713,False
+IT,Fossil Peat,0.0,0.0,,False
+IT,Gas,136785455.5,48134.0,0.32440225256812555,False
+IT,Hydro Run-of-river and poundage,34459699.0,10650.0,0.36936672240444185,False
+IT,Hydro Water Reservoir,8092235.0,3857.0,0.2395050865235834,False
+IT,Nuclear,0.0,,,False
+IT,Oil,957000.0,1443.0,0.0757079524202812,False
+IT,Other,3801612.7500000005,991.0,0.4379152958821172,False
+IT,Other renewable,0.0,0.0,,False
+IT,Waste,337523.0,132.0,0.29189411235644114,False
+LT,Biomass,408648.0,96.0,0.48593036529680367,False
+LT,Fossil Brown coal/Lignite,0.0,,,False
+LT,Fossil Hard coal,0.0,,,False
+LT,Fossil Peat,0.0,,,False
+LT,Gas,401625.0,1710.0,0.026811463590483055,False
+LT,Hydro Run-of-river and poundage,362943.0,128.0,0.3236863227739726,False
+LT,Hydro Water Reservoir,0.0,,,False
+LT,Nuclear,0.0,,,False
+LT,Oil,0.0,0.0,,False
+LT,Other,157189.0,140.0,0.12817106979778212,False
+LT,Other renewable,0.0,0.0,,False
+LT,Waste,147030.0,21.0,0.7992498369210698,False
+LV,Biomass,594555.0,126.0,0.5386632963687759,False
+LV,Fossil Brown coal/Lignite,0.0,,,False
+LV,Fossil Hard coal,0.0,,,False
+LV,Fossil Peat,0.0,,,False
+LV,Gas,3381962.0,1110.0,0.34780965897404253,False
+LV,Hydro Run-of-river and poundage,2043595.0,1539.0,0.151583561050436,False
+LV,Hydro Water Reservoir,0.0,,,False
+LV,Nuclear,0.0,,,False
+LV,Oil,0.0,,,False
+LV,Other,0.0,,,False
+LV,Other renewable,0.0,,,False
+LV,Waste,0.0,,,False
+NL,Biomass,22433.0,485.0,0.005280092265687521,False
+NL,Fossil Brown coal/Lignite,0.0,0.0,,False
+NL,Fossil Hard coal,25230458.25,4631.0,0.6219367950648252,False
+NL,Fossil Peat,0.0,0.0,,False
+NL,Gas,71314812.75,15570.0,0.5228619370320514,False
+NL,Hydro Run-of-river and poundage,0.0,38.0,0.0,False
+NL,Hydro Water Reservoir,0.0,0.0,,False
+NL,Nuclear,3701308.0,486.0,0.8693904203543981,False
+NL,Oil,0.0,0.0,,False
+NL,Other,0.0,1.0,0.0,False
+NL,Other renewable,0.0,0.0,,False
+NL,Waste,2224916.0,758.0,0.3350736738111589,False
+NO,Biomass,0.0,,,False
+NO,Fossil Brown coal/Lignite,0.0,,,False
+NO,Fossil Hard coal,0.0,,,False
+NO,Fossil Peat,0.0,,,False
+NO,Gas,2961575.0,634.6,0.5327439929081995,False
+NO,Hydro Run-of-river and poundage,10406363.0,5937.13,0.20008673917114156,False
+NO,Hydro Water Reservoir,114591076.0,26472.27,0.49414625415050273,False
+NO,Nuclear,0.0,,,False
+NO,Oil,0.0,,,False
+NO,Other,190822.0,0.0,0.2,True
+NO,Other renewable,0.0,,,False
+NO,Waste,0.0,,,False
+PL,Biomass,2065831.0,849.38,0.2776442306400016,False
+PL,Fossil Brown coal/Lignite,37770820.0,8013.46,0.5380618912332968,False
+PL,Fossil Hard coal,76224510.0,22261.06,0.39088112076387105,False
+PL,Fossil Peat,0.0,,,False
+PL,Gas,11129322.0,2377.93,0.5342758398881404,False
+PL,Hydro Run-of-river and poundage,1405622.0,435.43,0.3685072972006782,False
+PL,Hydro Water Reservoir,125137.0,156.51,0.09127241493898446,False
+PL,Nuclear,0.0,,,False
+PL,Oil,1621450.0,415.0,0.44601694449028995,False
+PL,Other,0.0,,,False
+PL,Other renewable,0.0,,,False
+PL,Waste,0.0,,,False
+RO,Biomass,432080.0,115.0,0.4289060948977566,False
+RO,Fossil Brown coal/Lignite,12711367.0,3096.0,0.4686916318596392,False
+RO,Fossil Hard coal,1146060.0,1032.0,0.12677206116597642,False
+RO,Fossil Peat,0.0,,,False
+RO,Gas,9319500.0,3033.0,0.35076487405661017,False
+RO,Hydro Run-of-river and poundage,10337856.0,2770.0,0.4260362988971861,False
+RO,Hydro Water Reservoir,5368766.0,3373.0,0.18169962379194435,False
+RO,Nuclear,11282957.0,1300.0,0.9907759922725676,False
+RO,Oil,0.0,,,False
+RO,Other,0.0,,,False
+RO,Other renewable,0.0,,,False
+RO,Waste,0.0,,,False
+RS,Biomass,120779.0,8.31,1.6591524762485643,False
+RS,Fossil Brown coal/Lignite,23463085.0,5600.5,0.47824914931356016,False
+RS,Fossil Hard coal,0.0,,,False
+RS,Fossil Peat,0.0,,,False
+RS,Gas,17222.0,286.41,0.00686422169323633,False
+RS,Hydro Run-of-river and poundage,8855914.0,1981.98,0.5100702765708992,False
+RS,Hydro Water Reservoir,635173.0,344.7,0.2103519969055217,False
+RS,Nuclear,0.0,,,False
+RS,Oil,0.0,,,False
+RS,Other,191334.0,22.63,0.9651692806857185,False
+RS,Other renewable,0.0,,,False
+RS,Waste,0.0,,,False
+SE,Biomass,0.0,,,False
+SE,Fossil Brown coal/Lignite,0.0,,,False
+SE,Fossil Hard coal,0.0,,,False
+SE,Fossil Peat,0.0,,,False
+SE,Gas,0.0,,,False
+SE,Hydro Run-of-river and poundage,0.0,,,False
+SE,Hydro Water Reservoir,65526542.0,16301.0,0.45887975329412234,False
+SE,Nuclear,64415218.0,8586.0,0.8564331921881964,False
+SE,Oil,0.0,,,False
+SE,Other,8994631.0,8439.0,0.12167133081296286,False
+SE,Other renewable,0.0,,,False
+SE,Waste,0.0,,,False
+SI,Biomass,89436.0,17.0,0.6005640612409348,False
+SI,Fossil Brown coal/Lignite,4006954.0,924.0,0.49503770582537704,False
+SI,Fossil Hard coal,0.0,0.0,,False
+SI,Fossil Peat,0.0,0.0,,False
+SI,Gas,356543.0,491.0,0.08289461447609482,False
+SI,Hydro Run-of-river and poundage,4321950.0,1053.0,0.4685406340657482,False
+SI,Hydro Water Reservoir,0.0,0.0,,False
+SI,Nuclear,5512473.0,696.0,0.9041346835144072,False
+SI,Oil,175.0,58.0,0.00034443394740985673,False
+SI,Other,0.0,0.0,,False
+SI,Other renewable,0.0,1.0,0.0,False
+SI,Waste,73399.0,40.0,0.2094720319634703,False
+SK,Biomass,821784.0,214.0,0.43836896684163357,False
+SK,Fossil Brown coal/Lignite,1260549.0,320.0,0.4496821489726027,False
+SK,Fossil Hard coal,377776.0,221.0,0.19513626314593277,False
+SK,Fossil Peat,0.0,,,False
+SK,Gas,2696974.0,1153.0,0.2670197261858087,False
+SK,Hydro Run-of-river and poundage,3984447.0,1208.0,0.37652777147781913,False
+SK,Hydro Water Reservoir,322125.0,418.0,0.08797191453103494,False
+SK,Nuclear,15346593.0,1940.0,0.9030382361248411,False
+SK,Oil,527693.0,257.0,0.23439271183128121,False
+SK,Other,1248888.0,418.0,0.3410696729370125,False
+SK,Other renewable,544155.0,116.0,0.5355012990080302,False
+SK,Waste,0.0,,,False

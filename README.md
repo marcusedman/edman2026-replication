@@ -1,4 +1,4 @@
-# Replication Repository — Adjusted Capacity Mix, Diversity, Trade & Price Metrics
+# Repository — "Do Generation Diversity and Renewables Mitigate Price Shocks?"
 
 This repository reproduces the data and regression results from the accompanying journal article:
 "Do Generation Diversity and Renewables Mitigate Price Shocks? Empirical Evidence from the 2022 European Energy Crisis"

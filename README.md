@@ -139,10 +139,10 @@ printed regression tables to console
 Data
 Raw datasets are stored in:
 data/raw_data/
-Depending on licensing constraints, raw data may not be included in this repository.
-If missing, download the raw files from the official sources and place them in the expected paths.
+
 Reproducibility and outputs
 All scripts are written to be reproducible with fixed input data, and output into:
+
 data/processed_data/ (intermediate results)
 data/processed_final_variables/ (final model-ready tables)
 

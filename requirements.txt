@@ -1,0 +1,6 @@
+pandas
+numpy
+statsmodels
+entsoe-py
+openpyxl
+python-dateutil

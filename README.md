@@ -36,9 +36,8 @@ pip install -r requirements.txt
 
 ## Short pipeline — reproduce regression results (no API key required)
 
-1)  Merge all final variables
-Combines all independant metrics into a single model-ready table
-python scripts/merge_all_variables.py
+1)  Merge all independent variables
+run: python scripts/merge_all_variables.py
 Output
 processed_final_variables/final_variables_merged.csv
 

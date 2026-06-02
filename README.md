@@ -9,7 +9,6 @@ It computes:
 - Diversity metrics (Shannon–Wiener Index, Stirling Index)
 - Generation ACM shares (Reservoir hydro, Variable Renewable Energy, Natural Gas)
 - Load controls (2019 vs 2022 deltas)
-- Price metrics (2017–2019 baseline vs 2022)
 - Trade metric (PEI) (ENTSO-E + Eurostat)
 - Final merged dataset used in regressions
 - Robust linear models (RLM) with HC3 covariance and model fit metric

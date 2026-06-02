@@ -17,11 +17,9 @@ It computes:
 ## Repository structure
 repository/
 ├─ scripts/ # main pipeline scripts
-├─ src/ # helper module
-├─ data/
-│ ├─ raw_data/ # raw input datasets 
-│ ├─ processed_data/ # intermediate processed outputs
-│ └─ processed_final_variables/ # final merged variables (model-ready)
+├─ raw_data/ # raw input datasets 
+├─ processed_data/ # intermediate processed outputs
+├─ processed_final_variables/ # final merged variables (model-ready)
 
 ---
 

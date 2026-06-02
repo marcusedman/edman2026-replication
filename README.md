@@ -36,10 +36,15 @@ pip install -r requirements.txt
 
 ## Short pipeline — reproduce regression results (no API key required)
 **1. Merge all independent variables**
+
 Run: 'python scripts/merge_all_variables.py'
+
 Output: `data/processed_final_variables/final_variables_merged.csv`
+
 2) Run robust models
+
 input: final_variables_merged.csv
+
 input: annual_delta_price_metrics
 
 **2. run /scripts/rlm_models.py**

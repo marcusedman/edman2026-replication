@@ -7,9 +7,10 @@ It computes:
 - Capacity factors (ENTSO-E + IRENA, with manual overrides)
 - Adjusted Capacity Mix (ACM) for 2021
 - Diversity metrics (Shannon–Wiener Index, Stirling Index)
+- Generation ACM shares (Reservoir hydro, Variable Renewable Energy, Natural Gas)
 - Load controls (2019 vs 2022 deltas)
 - Price metrics (2017–2019 baseline vs 2022)
-- Trade exposure metric (PEI) (ENTSO-E + Eurostat)
+- Trade metric (PEI) (ENTSO-E + Eurostat)
 - Final merged dataset used in regressions
 - Robust linear models (RLM) with HC3 covariance and model fit metric
 ---
@@ -34,13 +35,29 @@ Install dependencies:
 - bash
 pip install -r requirements.txt
 
+## Short pipeline — reproduce regression results (no API key required)
+
+1)  Merge all final variables
+Combines all independant metrics into a single model-ready table
+python scripts/merge_all_variables.py
+Output
+processed_final_variables/final_variables_merged.csv
+
+2) Run robust models
+input: final_variables_merged.csv
+input: annual_delta_price_metrics
+
+run /scripts/rlm_models.py
+
+output: Robust linear models for tables (1-10) and diagnostics. Possible to include IC95 in config for tables 1c-9c)
+
+
+## Replication pipeline full (API key required))
+
 ENTSO-E API key
 Some scripts require access to the ENTSO-E Transparency Platform API.
 Set your API key as an environment variable:
 export ENTSOE_API_KEY="YOUR_KEY_HERE"
-
-
-Replication pipeline (run order)
 
 Run the scripts in the order below to regenerate the final dataset and regression models.
 1) ENTSO-E generation totals (2019)
@@ -95,16 +112,6 @@ python scripts/load_change_forecast_compute.py
 Output
 data/processed_final_variables/load_metrics_bz_2022_deltas.csv
 
-9) Compute price metrics (baseline vs 2022 deltas)
-Computes price change controls from either:
-ENTSO-E day-ahead prices, or
-Ember price dataset (for specific areas)
-plus load-weighting from ENTSO-E load series
-python scripts/price_metrics_computation.py
-Outputs
-data/processed_final_variables/price_metrics_all_years.csv
-data/processed_final_variables/price_metrics_2022_deltas.csv
-
 10) Compute trade exposure (PEI)
 10a) PEI from ENTSO-E (2017–2019 average)
 python scripts/PEI_entsoe_computation.py
@@ -120,10 +127,10 @@ Output
 data/processed_final_variables/pei_avg_2017_2019_final.csv
 
 11) Merge all final variables
-Combines all computed metrics into a single model-ready table
+Combines all independent metrics into a single model-ready table
 python scripts/merge_all_variables.py
 Output
-data/processed_final_variables/final_variables_merged.csv
+processed_final_variables/final_variables_merged.csv
 
 12) Run robust regression models (RLM)
 Runs all 19 Robust Linear Models (Tukey Biweight, HC3 covariance) and prints:
@@ -132,17 +139,8 @@ robust standard errors
 p-values
 confidence intervals
 weighted pseudo-R2
-python scripts/RLM_HC3.py
+run scripts/rlm_models.py
 Output
 printed regression tables to console
 
-Data
-Raw datasets are stored in:
-data/raw_data/
-
-Reproducibility and outputs
-All scripts are written to be reproducible with fixed input data, and output into:
-
-data/processed_data/ (intermediate results)
-data/processed_final_variables/ (final model-ready tables)
 

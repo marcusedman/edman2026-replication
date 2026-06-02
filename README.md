@@ -35,18 +35,14 @@ Install dependencies:
 pip install -r requirements.txt
 
 ## Short pipeline — reproduce regression results (no API key required)
-
-1)  Merge all independent variables
-run: python scripts/merge_all_variables.py
-Output
-processed_final_variables/final_variables_merged.csv
-
+**1. Merge all independent variables**
+Run: 'python scripts/merge_all_variables.py'
+Output: `data/processed_final_variables/final_variables_merged.csv`
 2) Run robust models
 input: final_variables_merged.csv
 input: annual_delta_price_metrics
 
-run /scripts/rlm_models.py
-
+**2. run /scripts/rlm_models.py**
 output: Robust linear models for tables (1-10) and diagnostics. Possible to include IC95 in config for tables 1c-9c)
 
 

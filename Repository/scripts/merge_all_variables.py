@@ -1,19 +1,16 @@
 import pandas as pd
 from pathlib import Path
 
-
 # Config
 
-ROOT = Path(__file__).resolve().parents[1]  # repository/
-DATA_DIR = ROOT / "data" / "processed_final_variables"
+ROOT = Path(__file__).resolve().parents[1]  #repository/
+DATA_DIR = ROOT / "processed_final_variables"
 
 FILES = [
-    "price_metrics_2022_deltas.csv",
     "pei_avg_2017_2019_final.csv",
     "shares_swi_from_acm.csv",
     "stirling_diversity_2021.csv",
-    "load_metrics_bz_2022_deltas.csv",
-    "gas_price_deltas.csv",
+    "interconnection_capacity_index_2021.csv",
 ]
 
 INDEX_COL = "bidding_zone"
